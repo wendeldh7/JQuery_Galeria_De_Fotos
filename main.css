@@ -73,7 +73,7 @@ ul li img {
     left: 0;
     width: 100%;
     opacity: 0;
-    transition: all ease .5s;
+    transition: all ease .2s;
 }
 
 .overlay-img-link a {
