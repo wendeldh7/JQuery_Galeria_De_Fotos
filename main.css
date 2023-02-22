@@ -24,6 +24,7 @@ form {
     background-color: #c8d5e5;
     padding: 24px 0;
     text-align: center;
+    display: none;
 }
 
 form h2 {
@@ -35,7 +36,7 @@ input,button {
 }
 
 button {
-    background-color: #009432; /*color button de sua escolha*/
+    background-color: #009432;
     border: none;
     cursor: pointer;
     font-weight: bold;
