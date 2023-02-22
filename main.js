@@ -1,7 +1,7 @@
 $(document).ready(function() {
     console.log(document.querySelector('header button'));
     console.log($('header button'));
-    Document.querySelector('header button').addEventListenner('click', function() {
+    Document.querySelector('header button').addEventListener('click', function() {
 
     })
 
