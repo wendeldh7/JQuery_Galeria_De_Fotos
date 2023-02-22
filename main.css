@@ -57,6 +57,8 @@ ul li {
     max-width: 25%;
     list-style: none;
     position: relative;
+    max-height: 280px;
+    overflow-y: hidden;
 }
 
 ul li img {
